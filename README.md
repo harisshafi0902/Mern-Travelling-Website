@@ -4,8 +4,6 @@ Welcome to my Travel World Website a fully-functional Travelling website exactly
 
 ![Travel](/frontend/src/images/travel1.png)
 ![Travel](/frontend/src/images/travel2.png)
-![Travel](/frontend/src/images/travel3.png)
-![Travel](/frontend/src/images/travel4.png)
 ![Travel](/frontend/src/images/travel5.png)
 
 
